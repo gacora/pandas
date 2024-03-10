@@ -76,7 +76,7 @@ id,	text
 74,	I. Almacenamiento externo; organización física y discos. 
 75,	II. Arquitecturas RAID.
 76,	PD/Cloud Computing: 
-77,,	I. Almacenamiento de datos en la nube: 
+77,	I. Almacenamiento de datos en la nube: 
 78,	1. Acceso compartido a data stores de consistencia débil; 
 79,	2. Sincronización de datos; 
 80,	3. Particionamiento de datos; 
