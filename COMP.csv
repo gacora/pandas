@@ -26,7 +26,7 @@ idasg,cminimos
 2,gestion de plataformas high throughput:
 2,preprocesamiento.
 2,normalizacion y control de calidad de datos.
-2,diseño y planificacion de experimentos de computacion biologica.
+2,diseÃ±o y planificacion de experimentos de computacion biologica.
 2,unidad iv.
 2,aplicacion en escenarios reales.
 3,bioinformatica
@@ -82,7 +82,7 @@ idasg,cminimos
 6,big data
 6,unidad i.
 6,introduccion y fundamentos:
-6,las v del big data (volumen. velocidad. variedad. veracidad. viabilidad. visualizacion y valor de los datos)).
+6,las v del big data volumen. velocidad. variedad. veracidad. viabilidad. visualizacion y valor de los datos
 6,fases del procesamiento bigdata.
 6,unidad ii.
 6,tecnologias de almacenamiento de grandes volumenes de datos
@@ -96,7 +96,7 @@ idasg,cminimos
 7,unidad ii
 7,sistemas de ecuaciones lineales.
 7,unidad iii
-7,vectores en r^2 y r^3.
+7,vectores en r2 y r3.
 7,unidad iv
 7,espacios vectoriales y producto interno.
 7,unidad v
@@ -182,10 +182,10 @@ idasg,cminimos
 14,unidad iv
 14,manejo de colecciones.
 14,unidad v
-14,programacion con interfaces grÿficas de usuario (gui) y manejo de eventos.
+14,programacion con interfaces grÃ¿ficas de usuario (gui) y manejo de eventos.
 15,electricidad y magnetismo
 15,unidad i. introduccion: 
-15,reseña historica del electromagnetismo. 
+15,reseÃ±a historica del electromagnetismo. 
 15,carga electrica y sus propiedades.
 15,ley de coulomb. y campo electrico.
 15,voltaje y capacitancia.
@@ -216,7 +216,7 @@ idasg,cminimos
 18,unidad i introduccion investigacion cientifica
 18,unidad ii identificando el problema a investigar
 18,unidad iii revision de literatura
-18,unidad iv diseño de investigacion
+18,unidad iv diseÃ±o de investigacion
 19,fundamentos de ciencias de la computacion
 19,unidad i. computador como maquina computable: 
 19,modelo de von neumann. 
@@ -256,13 +256,13 @@ idasg,cminimos
 21,unidad ii metodos para resolucion de sistemas de ecuaciones lineales:
 21,unidad iii: interpolacion y ajuste de curvas:
 21,unidad iv: diferenciacion e integracion numerica.
-22,analisis y diseño de algoritmos
+22,analisis y diseÃ±o de algoritmos
 22,unidad i. introduccion al analisis de algoritmos:
-22,algoritmos. importancia del tiempo de ejecucion. uso. analisis y diseño.
+22,algoritmos. importancia del tiempo de ejecucion. uso. analisis y diseÃ±o.
 22,unidad ii. analisis de algoritmos:
 22,"tiempos de ejecucion. analisis asintotico. notacion gran ""o"". analisis de tiempo de ejecucion de algoritmos de ordenamiento. busqueda y arboles."
-22,unidad iii. tecnicas de diseño eficientes:
-22,"estrategias de ""backtracking"". dividir y vencer. voraz. programacion dinÿmica."
+22,unidad iii. tecnicas de diseÃ±o eficientes:
+22,"estrategias de ""backtracking"". dividir y vencer. voraz. programacion dinÃ¿mica."
 22,seleccion de la estrategia correcta y verificacion de la correccion del algoritmo.
 22,unidad iv. complejidad computacional: p y np. np completo. np-hard. pruebas y verificacion
 23,bases de datos
@@ -280,7 +280,7 @@ idasg,cminimos
 23,conversion de expresiones de algebra relacional. objetos simples. operadores. procedimientos almacenados. disparadores.
 24,interaccion humano computador
 24,unidad i fundamentos de la interaccion humanocomputador:
-24,unidad ii diseño centrado en el usuario.
+24,unidad ii diseÃ±o centrado en el usuario.
 24,unidad iii iteraciones de prototipos:
 24,unidad iv evaluacion de interfaces usabilidad y accesibilidad.
 25,sistemas operativos
@@ -323,18 +323,18 @@ idasg,cminimos
 28,modelos de datos.
 28,modelos basados en agregacion y grafos.
 28,unidad ii. bases de datos clave valor:
-28,diseño. implementacion y consultas en bases de datos clave valor.
+28,diseÃ±o. implementacion y consultas en bases de datos clave valor.
 28,unidad iii. bases de datos documentales (xml):
-28,diseño. implementacion y consultas en bases de datos documentales.
+28,diseÃ±o. implementacion y consultas en bases de datos documentales.
 28,unidad iv. bases de datos orientada a grafos:
-28,propiedades de grafos. diseño. implementacion y consultas en bases de datos orientadas a grafos.
+28,propiedades de grafos. diseÃ±o. implementacion y consultas en bases de datos orientadas a grafos.
 29,estadistica descriptiva
 29,unidad i. introduccion a la estadistica descriptiva.
 29,unidad ii. muestreo y probabilidad
 29,unidad iii. variables aleatorias discretas y continuas
 29,unidad iv. convergencia y teorema central del limite
 30,programacion funcional y reactiva
-30,unidad i. principios y patrones de diseño de programas
+30,unidad i. principios y patrones de diseÃ±o de programas
 30,unidad ii. programacion funcional
 30,unidad iii. programacion reactiva y dirigida por eventos
 30,unidad iv. desarrollo de aplicaciones con paradigma funcional reactivo.
@@ -389,8 +389,8 @@ idasg,cminimos
 36,computacion paralela y distribuida
 36,unidad i. conceptos
 36,unidad ii. arquitecturas paralelas
-36,unidad iii. metodologia de diseño de algoritmos paralelos.
-36,unidad iv. diseño de aplicaciones paralelas y distribuidas
+36,unidad iii. metodologia de diseÃ±o de algoritmos paralelos.
+36,unidad iv. diseÃ±o de aplicaciones paralelas y distribuidas
 37,computacion cientifica
 37,unidad i. introduccion y representaciones numericas y algoritmos
 37,unidad ii. construccion de modelos matematicos.
@@ -416,8 +416,8 @@ idasg,cminimos
 41,unidad i.fundamentos de la ingenieria de software
 41,unidad ii. modelado de requerimientos desde el enfoque analisis estructurado
 41,unidad iii. modelado de requerimientos desde el enfoque orientado a objetos
-41,unidad iv. metodologias ÿgiles
-41,unidad v. diseño de software
+41,unidad iv. metodologias Ã¿giles
+41,unidad v. diseÃ±o de software
 42,realidad socio economica. cultural y ecologica del ecuador
 42,unidad i. paisaje geografico. historico y ambiental del ecuador
 42,unidad ii. paisaje sociocultural politico ecuatoriano
