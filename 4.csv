@@ -1,23 +1,23 @@
 text
 aprendizaje de maquina
-Unidad I.
-Terminologia de aprendizaje automatico.
-Atributos,
-observaciones,
-etiquetas,
-clasificacion,
-prediccion.
-Tipos de aprendizaje de maquina.
-Unidad II.
-Aprendizaje supervisado:
-arboles de decision.
-Unidad III.
-Aprendizaje nosupervisado:
-PCA,
-kmeans y knn.
-Unidad IV.
-Metricas de calidad para aprendizaje de maquina.
-Internas y externas.
-Accuracy,
-precision,
-jaccard.
+Unidad I
+Terminologia de aprendizaje automatico
+Atributos
+observaciones
+etiquetas
+clasificacion
+prediccion
+Tipos de aprendizaje de maquina
+Unidad II
+Aprendizaje supervisado
+arboles de decision
+Unidad III
+Aprendizaje nosupervisado
+PCA
+kmeans y knn
+Unidad IV
+Metricas de calidad para aprendizaje de maquina
+Internas y externas
+Accuracy
+precision
+jaccard
