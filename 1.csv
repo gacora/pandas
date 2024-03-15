@@ -2,8 +2,8 @@ text
 metaheuristicas
 Unidad I.
 Conceptos de optimizacion: 
-espacios de busqueda, 
-espacio objetivo, 
+espacios de busqueda
+espacio objetivo
 funcion objetivo restricciones
 Unidad II.
 Busquedas locales:
@@ -11,7 +11,7 @@ Simulated annealing.
 Busqueda tabu.
 Unidad III.
 Algoritmos inspirados en la evolucion:
-geneticos,
+geneticos
 programacion genetica.
 Unidad IV.
 Aplicaciones en escenarios reales.
